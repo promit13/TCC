@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:RNGoogleVR"
+      name = "RNGoogleVR">
+      <FileRef
+         location = "group:VideoManager.m">
+      </FileRef>
+      <FileRef
+         location = "group:PanoramaManager.h">
+      </FileRef>
+      <FileRef
+         location = "group:PanoramaView.h">
+      </FileRef>
+      <FileRef
+         location = "group:VideoView.m">
+      </FileRef>
+      <FileRef
+         location = "group:VideoManager.h">
+      </FileRef>
+      <FileRef
+         location = "group:PanoramaView.m">
+      </FileRef>
+      <FileRef
+         location = "group:PanoramaManager.m">
+      </FileRef>
+      <FileRef
+         location = "group:VideoView.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:TCC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
